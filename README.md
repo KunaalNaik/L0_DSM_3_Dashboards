@@ -12,6 +12,9 @@
 - 4 Charts 
 - No Focus on Formatting
 
+![image](images/excel_dashboard1.JPG)
+![image](images/powerbi_dashboard1.JPG)
+
 ## Stage 2
 - Up Coming 
 
