@@ -14,6 +14,7 @@
 
 ![image](images/excel_dashboard1.JPG)
 ![image](images/powerbi_dashboard1.JPG)
+![image](images/google_studio_dashboard1.JPG)
 
 ## Stage 2
 - Up Coming 
